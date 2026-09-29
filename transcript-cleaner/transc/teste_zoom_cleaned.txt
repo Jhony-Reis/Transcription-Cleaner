@@ -1,0 +1,18 @@
+00:00:01.000 
+João Silva: Olá, pessoal.  Vamos começar a reunião. 
+
+00:00:05.000 
+Maria Souza: Bom dia, João.  Podemos começar sim. 
+
+00:00:09.000 
+João Silva: Ótimo! Primeiro vamos falar sobre o projeto.  A primeira etapa já está pronta. 
+
+00:00:13.000 
+Carlos Oliveira: Tenho uma dúvida: quando vamos testar? 
+
+00:00:15.000 
+João Silva: Podemos testar amanhã. 
+
+00:00:17.000 
+Maria Souza: Perfeito. Obrigada!
+
